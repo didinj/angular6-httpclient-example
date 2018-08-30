@@ -1,4 +1,6 @@
-# Angular6Httpclient
+# Angular 6 HttpClient: Consume RESTful API Example
+
+This source code is part of [Angular 6 HttpClient: Consume RESTful API Example]() tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
